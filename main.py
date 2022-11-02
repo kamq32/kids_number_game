@@ -28,9 +28,5 @@ if yournb == nb:
 elif yournb != nb:
     print("you are lose")
 
-print("do u want to play next game?")
-def ok (name):
-    assert isinstance(name, object)
-    print("next game is 11/8!!!"+name)
 
 
